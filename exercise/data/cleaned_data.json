@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ayşe",
+        "age": 28,
+        "city": "Trabzon"
+    },
+    {
+        "name": "Mehmet",
+        "age": 31,
+        "city": "İstanbul"
+    },
+    {
+        "name": "Elif",
+        "age": 26,
+        "city": "Ankara"
+    },
+    {
+        "name": "Sefa",
+        "age": 36,
+        "city": "Trabzon"
+    },
+    {
+        "name": "Zeynep",
+        "age": 29,
+        "city": "İzmir"
+    }
+]
