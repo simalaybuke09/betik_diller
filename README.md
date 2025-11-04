@@ -1,1 +1,1 @@
-![Proje Dosya Yapısı ](exercise\readmeklasoru\dosyayapisi.png)
+![Proje Dosya Yapısı ](exercise/readmeklasoru/dosyayapisi.png)
