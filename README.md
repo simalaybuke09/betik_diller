@@ -1,6 +1,5 @@
 ![Proje Dosya Yapısı ](exercise/readmeklasoru/dosyayapisi.png)
 ![cleaned_data](exercise/readmeklasoru/cleaned_data.png)
-![dosyayapisi](exercise/readmeklasoru/dosyayapisi.png)
 ![people](exercise/readmeklasoru/people.png)
 ![rapor](exercise/readmeklasoru/rapor.png)
 ![stats](exercise/readmeklasoru/stats.png)
